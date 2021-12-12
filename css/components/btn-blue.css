@@ -1,0 +1,36 @@
+.btn-blue {
+    text-decoration: none;
+    height: auto;
+    padding: 8px;
+    background: #6d72e1;
+    color: white;
+    border-radius: 6px;
+}
+
+.btn-blue:hover {
+    background: #4ebedf;
+    color: white;
+    transition: 0.5s;
+
+}
+
+.btn-lien {
+    text-decoration: none;
+    height: auto;
+    padding: 8px;
+    background: #6d72e1;
+    color: white;
+    border-radius: 6px;
+}
+
+.btn-lien:hover {
+    background: #4ebedf;
+    color: white;
+    transition: 0.5s;
+}
+
+#btn-lien2 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #432178;
+}

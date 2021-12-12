@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;700&display=swap');
+@import url(components/container.css);
+@import url(components/profile-picture-round.css);
+@import url(components/btn-blue.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+@import url(components/cardGrid.css);
+@import url(components/.navbar.css);
+h1 {
+    font-family: 'Bebas Neues', sans-serif;
+    font-weight: 700;
+}
+
+
+h2 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+p,a {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    
+}
+
+body{
+    margin: 0px;
+    justify-content: center;
+    justify-items: center;
+}
+
+h3{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    color: black;
+}
